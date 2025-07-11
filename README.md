@@ -1,13 +1,13 @@
 # Web Developer Portfolio - Using HTML, CSS, Bootstrap & JS
 
-> See live demo: [https://vijay-singh.com](https://vijay-singh.com)    |  Feel free to use but **credit appreciated** and a **⭐** to repo ;)
+> See live demo: [https://pranjal-045.github.io/My-Portfolio](https://pranjal-045.github.io/My-Portfolio)    |  Feel free to use but **credit appreciated** and a **⭐** to repo ;)
 
-![Developer Portoflio](https://github.com/itsvijaysingh/My-Portfolio/blob/main/Developer%20Portolio%20Website.png)
+![Developer Portfolio](https://github.com/Pranjal-045/My-Portfolio/blob/main/Developer%20Portfolio%20Website.png)
 
 
-Hi there! I'm Vijay, and this is my portfolio website code built with HTML, CSS, Bootstrap, and a touch of JavaScript. Let's dive into the features:
+Hi there! I'm Pranjal, and this is my portfolio website code built with HTML, CSS, Bootstrap, and a touch of JavaScript. Let's dive into the features:
 
-> But, wait! Have any cool project ideas to share or need some work done? Just shoot me an email at hi@vijay-singh.com. Let's chat over a virtual coffee! 😊 And if you're wondering why you should consider working together, check out projects like **PfpFinder** (https://pfpfinder.com) (where you can find the best pfps - almost 50k+!), **Alt Text Generator** (https://alttext.tech/) (just upload an image to see what it is!), **Discord Lookup API** (https://github.com/itsvijaysingh/Discord-Lookup-API), and more! Check out my complete profile here: https://github.com/itsvijaysingh
+> But, wait! Have any cool project ideas to share or need some work done? Just shoot me an email at pranjal045@gmail.com. Let's chat over a virtual coffee! 😊 And if you're wondering why you should consider working together, check out projects like **Portfolio Website** (responsive personal portfolio with dark/light mode), **Task Manager** (full-stack task management application with user authentication), **Weather App** (real-time forecasts using external APIs), and more! Check out my complete profile here: https://github.com/Pranjal-045
 
 ## **Portfolio Features:**
 
@@ -15,23 +15,20 @@ Hi there! I'm Vijay, and this is my portfolio website code built with HTML, CSS,
 * **Clean Code 👍:** Well-formatted and easy to follow. 
 * **Real-World Showcase 💻:** Check out my actual projects!
 * **Optimized for Speed 🚀:**  SEO metadata, prefetching, and deferring for a snappy experience.
-* **Testimonials ✅:** Genuine reviews from friends and developers.
-* **SEO Optimed** Just Replace The Content at <head>
+* **SEO Optimized** Just Replace The Content at <head>
 * **And More!** See the details below.
   
 ## **Technologies Used:**
 
 * HTML, CSS, Bootstrap, JavaScript
-* Owl Carousel Library (for Testimonials)
-* jQuery (to support Owl Carousel)
 * AOS Library (for cool fade effects)
-* Fonts: Augustina, Rubik, Dancing Script
+* Fonts: Rubik
 * Bootstrap Icons
 
 ## **Want to see it live? 👀**
 
-* Visit: [https://vijay-singh.com/](https://vijay-singh.com/)
-* Or, explore the code on GitHub: [https://github.com/itsvijaysingh/My-Portfolio/](https://github.com/itsvijaysingh/My-Portfolio/)
+* Visit: [https://pranjal-045.github.io/My-Portfolio](https://pranjal-045.github.io/My-Portfolio)
+* Or, explore the code on GitHub: [https://github.com/Pranjal-045/My-Portfolio/](https://github.com/Pranjal-045/My-Portfolio/)
 
 ## **Why This Web Developer Portfolio Stands Out**
 
@@ -43,4 +40,4 @@ Hi there! I'm Vijay, and this is my portfolio website code built with HTML, CSS,
 
 Feel free to connect with me or leave feedback. I'm always learning and improving! 
 
-> ~ [hi@vijay-singh.com](mailto:hi@vijay-singh.com)
+> ~ [pranjal045@gmail.com](mailto:pranjal045@gmail.com)
